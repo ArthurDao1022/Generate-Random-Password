@@ -3,6 +3,8 @@
 
 ## Welcome to the Random Password Generator project!
 This simple yet powerful tool allows you to generate secure and random passwords with ease. Whether you need a strong password for your online accounts, applications, or any other purpose, this generator has got you     covered.
+Please feel free to access the code project through this link: https://arthurdao1022.github.io/Generate-Random-Password/
+Or follow the "Getting Started Steps" to see the foundation of the project
 
 ## Introduction
   This project is a Random Password Generator implemented using JavaScript, CSS, and HTML. It's designed to create strong and secure passwords for various applications, ensuring the safety of your sensitive information.   The project provides a user-friendly interface that allows you to customize password characteristics and generate passwords that meet your specific requirements.
