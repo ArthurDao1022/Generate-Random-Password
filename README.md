@@ -38,7 +38,8 @@ b. Adjust the settings according to your preferences:
 2. Select whether to include lowercase letters, uppercase letters, numbers, and special symbols.
 3. Toggle the visibility of the password using the eye icon.
 4. Click the "Generate Password" button to create a random password based on your settings.
-5. Copy the generated password using the "Copy" button and use it wherever you need a strong password.
+5. Look at the password generated at first and copy it if needed. 
+6. Copy the generated password using the "Copy" button and use it wherever you need a strong password.
 
 ### Features
 a. Generate random passwords with various combinations of characters.
